@@ -1,2 +1,2 @@
-# functional-and-logical-programming
-Lab works for FaLP discipline
+# flp-labs
+Lab works for Functional and Logical Programming discipline
